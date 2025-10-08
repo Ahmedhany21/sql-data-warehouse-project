@@ -7,7 +7,7 @@ Script Purpose:
     Run this script to re-define the DDL structure of 'bronze' Tables
 */
 
--- CREATING THE DATABASE TABLES STRUCTURE
+-- CREATING THE DATABASE TABLES STRUCTURE FOR BRONZE LAYER
 -- TABLES CREATED AS COULMN NAMES IN THE MAIN FILE WITH THE SAME DATA TYPE
 IF OBJECT_ID('bronze.crm_cust_info', 'U') IS NOT NULL
 	DROP TABLE bronze.crm_cust_info;
