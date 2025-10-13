@@ -40,3 +40,21 @@ The Gold layer is the business-level data representation, structured to support 
 | cost                  | INT          | The cost or base price of the product, measured in monetaury units |
 | product_line          | NVARCHAR(50) | The specific product line or series to which the product belongs (e.g., Road, Mountain) |
 | start_date            | DATE         | The date when the product became available for sales or use, stored in |
+
+---
+
+### 2. gold.dim_sales
+- Purpose: Stores transactional sales data for analytical purpose 
+- **Columns**
+
+| Column_Name     | Data Type    | Description |
+| :--:            | :--:         | :--: |
+| order_number    | NVARCHAR(50) | Surrogate key uniquely identifies each product record in he product dimension table |
+| product_key     | INT          | A Unique identifier assigned to the product for internal tracking and refrencing |
+| customer_key    | INT          | A structured alphanumeric code representing the product, often used for categorization or inventory |
+| order_date      | INT          | Descriptive name of the product, including key details such as type, color and size |
+| shipping_date   | Date         | A unique identifier for the product's category, linking to its high-level classification |
+| due_date        | Date         | The broader classification of the product (e.g., Bikes, Components, ...) to group related items |
+| sales_amount    | INT          | A more detailed classification of the product within the category, such as product type |
+| quantity        | INT          | Indicates whether the product requires maintenance (e.g., 'Yes', 'No') |
+| price           | INT          | The cost or base price of the product, measured in monetaury units |
