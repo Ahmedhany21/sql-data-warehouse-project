@@ -9,7 +9,7 @@ tables** and **fact tables** for specific bsuiness metrics
 - **Purpose**: Stores customer details enriched with demographic and geographic data.
 - **Columns**
 | Column_Name | Data Type | Description |
-|-------------|-----------|-------------|
+|:-------------|:-----------|:-------------|
 | Cusstomer_key     | INT          | Surrogate key uniquely each customer record in he dimension table |
 | Customer_id       | INT          | Unique numerical identifier assigned to each customer |
 | customer_number   | NVARCHAR(50) | Alphanumeric identifier assigend to each customer |
