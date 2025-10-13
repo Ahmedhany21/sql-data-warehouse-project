@@ -43,8 +43,5 @@ You can view my recent work with analysis in My Freelance Account:
 
 [![Upwok](https://img.shields.io/badge/Upwok-black?style=for-the-badge&logo=upwork&logoColor=white)](http://bit.ly/3GiCVUE)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](http://bit.ly/3GiCVUE)
-[![Mostaql](https://img.shields.io/badge/Mostaql-green?style=for-the-badge&logo=freelancer&logoColor=white)](http://bit.ly/3GiCVUE)
-[![Khamsat](https://img.shields.io/badge/Khamsat-orange?style=for-the-badge&logo=shutterstock&logoColor=white)](http://bit.ly/3GiCVUE)
-- **Upwork** --> https://www.upwork.com/freelancers/~01736b126a537a2f61
-- **Khamsat** --> https://khamsat.com/user/ahmed_hany23
-- **Mostaql** --> https://mostaql.com/u/Ahmed_hany20
+[![Mostaql](https://img.shields.io/badge/Mostaql-green?style=for-the-badge&logo=mostaql&logoColor=white)](http://bit.ly/3GiCVUE)
+[![Khamsat](https://img.shields.io/badge/Khamsat-orange?style=for-the-badge&logo=khamsat&logoColor=white)](http://bit.ly/3GiCVUE)
