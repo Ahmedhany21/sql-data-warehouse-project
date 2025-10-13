@@ -1,5 +1,5 @@
 ## Data Dictionary For Gold Layer
--------------------------------------------------------------------------------
+
 ### Overview
 -------------------------------------------------------------------------------
 The Gold layer is the business-level data representation, structured to support analytical and reporting use cases. It contains of **dimension
