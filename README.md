@@ -40,7 +40,8 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 Hi there! I'm **AHmed Hany Elsaid**, Data Analysis Specialist going to go deeper in Data Engineer to know more about the main source where the data comming from and try to keep track with it till it ends in my BI Tools ( Tableau - Power BI - Excel - Looker Studio).
 
 You can view my recent work with analysis in My Freelance Account:
-[![Upwok](https://img.shields.io/badge/Upwok-black?style=for-the-badge&logo=freelancer&logoColor=white)](http://bit.ly/3GiCVUE)
+
+[![Upwok](https://img.shields.io/badge/Upwok-black?style=for-the-badge&logo=upwork&logoColor=white)](http://bit.ly/3GiCVUE)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](http://bit.ly/3GiCVUE)
 [![Mostaql](https://img.shields.io/badge/Mostaql-green?style=for-the-badge&logo=freelancer&logoColor=white)](http://bit.ly/3GiCVUE)
 [![Khamsat](https://img.shields.io/badge/Khamsat-orange?style=for-the-badge&logo=shutterstock&logoColor=white)](http://bit.ly/3GiCVUE)
